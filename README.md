@@ -1,4 +1,4 @@
-![Warzon.io](./images/warzon.io.png)
+![Warzon.io](./images/logo.png)
 # Warzon.io
 - 150 Player Battle Royale (Base Gamemode)
 - 12v12 Multiplayer (Planned to release with Base Game)
