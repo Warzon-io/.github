@@ -1,3 +1,6 @@
+# Deprication Notice
+- Eversince Warzone 2.0 has came out, i've lost all insperation to make this projects thinking i can never forgive the developers about the worthless map brought to us by activision called caldara for Warzone2019. Warzone 2 however brought us a new map that is promising including warzone mobile is coming out. therefor eliminates my insperation to create this project and test out a new game thats extremely promising to the fans of warzone.  - zeropoint#9798
+
 ![Warzon.io](./images/logo.png)
 # Warzon.io
 - 150 Player Battle Royale (Base Gamemode)
