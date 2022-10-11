@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../assets/img/logos/logo.png" alt="Warzon.io logo">
+    <img src="./assets/img/logos/logo.png" alt="Warzon.io logo">
     <hr />
 </div>
 
