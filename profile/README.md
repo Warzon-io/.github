@@ -7,7 +7,7 @@
     <a href="https://discord.gg/Napj5Pswtn"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="mailto:warzonio@banabyte.com"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
+<br />
 
 An up-and-coming 2D battle royale, based on [surviv.io](https://surviv.io) and [Call of Duty: Warzone](https://www.callofduty.com/warzone).
 
