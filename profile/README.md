@@ -7,9 +7,12 @@
     <a href="https://discord.gg/Napj5Pswtn"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="mailto:warzonio@banabyte.com"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<br />
+<hr />
 
-An up-and-coming 2D battle royale, based on [surviv.io](https://surviv.io) and [Call of Duty: Warzone](https://www.callofduty.com/warzone).
+<div align="center">
+    An up-and-coming 2D battle royale, based on <a href="https://surviv.io">surviv.io</a> and <a href="https://www.callofduty.com/warzone">Call of Duty: Warzone</a>.
+</div>
+<hr />
 
 ## Gamemodes
  - Solos
