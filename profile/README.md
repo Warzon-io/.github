@@ -2,7 +2,6 @@
     <img src="./assets/img/logos/logo.png" alt="Warzon.io logo">
     <hr />
 </div>
-https://discord.gg/USsrSSdAPA
 <div align="center">
     <a href="https://discord.gg/FhjYcxeWXP"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="mailto:contact@warzon.io"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
